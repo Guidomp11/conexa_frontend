@@ -35,3 +35,9 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+@media (max-width: 600px) {
+    .forms .form-container{
+        width: 80%;
+    }
+}
